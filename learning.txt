@@ -1,0 +1,26 @@
+# Import all the packages
+import (
+	"log"
+	"net/http"
+	"net/http/httputil"
+	"net/url"
+)
+
+var(
+    Assign for all variables in the same var
+)
+
+http.HandleFunc("/", )
+httputil.NewSingleHostReverseProxy("https://127.0.0.1:5000")
+httputil.NewSingleHostReverseProxy("https://127.0.0.1:5000")
+
+Gocron is useful for a wide range of applications, including automating routine tasks,
+scheduling backups or maintenance tasks, sending periodic emails or notifications, and more. 
+
+//cron jobs
+cron jobs programmatically 
+
+The Every(2) method specifies that the task should be executed every 2 units of time. In this case, the units are seconds.
+The Seconds() method specifies that the units of time for the task are seconds.
+The Do() method is used to specify the task that should be executed. In the code provided, an anonymous function is used as the task to be executed.
+// Every 2 and second method and Do() method that is used to make

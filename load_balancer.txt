@@ -1,0 +1,12 @@
+In computing, load balancing is the process of distributing a set of tasks over a set of resources (computing units), with the aim of making their overall processing more efficient. 
+Load balancing can optimize the response time and avoid unevenly overloading some compute nodes while other compute nodes are left idle.
+# https://en.wikipedia.org/wiki/File:Elasticsearch_Cluster_August_2014.png
+
+# Lets build a load balancer 
+
+- HTTP server (5)
+- Loadbalancer:
+        * Round robin (using this algorithm)
+
+- Health check process
+
